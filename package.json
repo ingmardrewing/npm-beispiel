@@ -1,0 +1,20 @@
+{
+  "name": "test-verzeichnis",
+  "version": "1.0.0",
+  "description": "Hallo Welt!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Ingmar Drewing",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^1.1.9"
+  },
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
